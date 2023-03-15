@@ -52,6 +52,7 @@
   },
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
+    "@babel/preset-typescript": "^7.21.0",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@typescript-eslint/eslint-plugin": "^4.0.1",
     "@typescript-eslint/parser": "^4.0.1",
